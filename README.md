@@ -18,11 +18,8 @@ This project demonstrates how Linear Regression works under the hood by:
 - **Visualization** – Matplotlib charts of predictions vs. actuals.  
 - **Clear Documentation** – Step‑by‑step guide in Notebook format.
 
-- ## Disclamer
-This repository reflects my personal learning journey.
-
-I followed Andrew Ng’s course for core concepts.
-
-I used LLM-based chatbots to troubleshoot and clarify implementation details—any errors or misunderstandings are mine alone.
-
-Feel free to use or adapt this code for your own studies, but it’s not intended as production-grade software.
+## Disclamer
+- This repository reflects my personal learning journey.
+- I followed Andrew Ng’s course for core concepts.
+- I used LLM-based chatbots to troubleshoot and clarify implementation details—any errors or misunderstandings are mine alone.
+- Feel free to use or adapt this code for your own studies, but it’s not intended as production-grade software.
