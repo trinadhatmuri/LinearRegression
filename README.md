@@ -4,6 +4,7 @@ This project demonstrates how Linear Regression works under the hood by:
 
 - Deriving and coding the normal equation  
 - Implementing gradient descent manually  
+- Adding regularization technique (Ridge / L2 Regularization) to improve model generalization
 - Comparing against scikit‑learn’s `LinearRegression`  
 - Evaluating model performance (MSE, plots)  
 - Documenting everything in a Jupyter Notebook  
@@ -14,7 +15,8 @@ This project demonstrates how Linear Regression works under the hood by:
 
 - **Pure‑Python Implementation** – No hidden libraries, just NumPy & math.  
 - **Vectorized Computation** – Fast matrix operations with NumPy.  
-- **Model Comparison** – Side‑by‑side evaluation with scikit‑learn.  
+- **Model Comparison** – Side‑by‑side evaluation with scikit‑learn.
+- **Regularization Support** - Ridge Regression implementation from scratch.  
 - **Visualization** – Matplotlib charts of predictions vs. actuals.  
 - **Clear Documentation** – Step‑by‑step guide in Notebook format.
 
